@@ -14,7 +14,6 @@
 
 <div align="center">
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.github.com/sivamurthy30)
 
 <img src="https://komarev.com/ghpvc/?username=sivamurthy30&label=NEURAL%20CONNECTIONS&color=00d9ff&style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/github/followers/sivamurthy30?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=000000" />
