@@ -20,9 +20,6 @@
 
 ## 🎯 **About Me**
 
-<div align="center">
-  <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-</div>
 
 ```typescript
 const sivaMurthy = {
