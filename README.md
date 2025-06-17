@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/shivamurthy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:shivapeddagundu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000)](https://sivamurthy.dev)
+[![Holopin](https://img.shields.io/badge/Holopin-FF6B6B?style=for-the-badge&logo=holopin&logoColor=white&labelColor=000)](https://holopin.me/sivamurthy30)
 
 </div>
 
@@ -97,6 +98,9 @@ const sivaMurthy = {
 
 ### **🏆 Achievement Trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=sivamurthy30&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+
+### **🎖️ Holopin Badges**
+[![@sivamurthy30's Holopin board](https://holopin.me/sivamurthy30)](https://holopin.io/@sivamurthy30)
 
 </div>
 
