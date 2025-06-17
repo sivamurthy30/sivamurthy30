@@ -171,6 +171,52 @@ Rust         45 mins         ░░░░░░░░░░░░░░░░░
 - Anyone wanting to contribute to open source
 - Building your GitHub profile
 
+---
+
+### 🌟 **Want to Be a Contributor? Join Us!**
+
+<div align="center">
+
+[![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/sivamurthy30/start-here)
+
+</div>
+
+#### 🚀 **How You Can Help:**
+
+**📚 Documentation & Guides**
+- ✨ Create step-by-step tutorials for Git/GitHub workflows
+- ✨ Write beginner-friendly contribution guidelines  
+- ✨ Develop troubleshooting guides for common issues newcomers face
+
+**💻 Code Examples & Templates**
+- ✨ Create starter templates for different types of contributions
+- ✨ Build example projects that demonstrate best practices
+- ✨ Develop automated tools to help streamline the contribution process
+
+**🤝 Community Building**
+- ✨ Help mentor new contributors
+- ✨ Review and provide feedback on pull requests
+- ✨ Create welcoming onboarding experiences
+
+**⚙️ Technical Improvements**
+- ✨ Enhance project structure and organization
+- ✨ Add automation for common tasks (CI/CD, issue templates, etc.)
+- ✨ Implement features that make the contribution process smoother
+
+#### 🔥 **Ready to Make an Impact?**
+
+<div align="center">
+
+**🎯 Share the GitHub repository link**  
+**💬 Tell us what specific areas need help**  
+**🌟 Let's build an amazing onboarding experience together!**
+
+[![Join the Community](https://img.shields.io/badge/💬_Join_the_Discussion-Let's_Collaborate-36BCF7?style=for-the-badge&labelColor=000)](https://github.com/sivamurthy30/start-here/discussions)
+
+</div>
+
+---
+
 <a href="https://github.com/sivamurthy30/start-here">
   <img src="https://img.shields.io/badge/🌟_Make_Your_First_Contribution-Click_Here-36BCF7?style=for-the-badge&labelColor=000" alt="Start Contributing"/>
 </a>
