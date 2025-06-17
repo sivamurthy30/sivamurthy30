@@ -13,6 +13,9 @@
 
 </div>
 
+### **🎖️ Holopin Badges**
+[![@sivamurthy30's Holopin board](https://holopin.me/sivamurthy30)](https://holopin.io/@sivamurthy30)
+
 ---
 
 ## 🎯 **About Me**
@@ -98,9 +101,6 @@ const sivaMurthy = {
 
 ### **🏆 Achievement Trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=sivamurthy30&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-
-### **🎖️ Holopin Badges**
-[![@sivamurthy30's Holopin board](https://holopin.me/sivamurthy30)](https://holopin.io/@sivamurthy30)
 
 </div>
 
