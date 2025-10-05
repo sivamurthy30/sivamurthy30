@@ -1,8 +1,7 @@
-# Siva Murthy
+# #Siva Murthy
+AI/ML Infrastructure Architect** | Apache Airflow Core Contributor
 
-**Senior AI/ML Infrastructure Architect** | Apache Airflow Core Contributor
 
-Optimizing production AI systems and building scalable data infrastructure. Delivered 60% performance improvements in Apache Airflow and 40% latency reduction in TensorFlow deployments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-murthy-3b1863253/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://sivamurthy.dev)
@@ -55,4 +54,4 @@ Optimizing production AI systems and building scalable data infrastructure. Deli
 
 ---
 
-**Impact**: 2,500+ commits • 100+ developers mentored • 50TB+ daily data processing • 99.99% uptime
+**Impact**: 2,500+ commits • 100+ developers mentored • 99.99% uptime
